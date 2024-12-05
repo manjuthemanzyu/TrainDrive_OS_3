@@ -1,10 +1,10 @@
 # TrainDrive-OS-3
 
 TrainDrive OS 3 is a train operation GUI for Roblox developed by Narikawa Technology.
-Its development codename is "Snow Right."
+Its development codename is **"Snow Right."**
 
 TrainDrive OS 3は、Narikawa Technologyが開発したRoblox向け列車運転GUIです。
-開発コードネームは、「Snow Right」。
+開発コードネームは、**「Snow Right」**。
 
 新機能
 
