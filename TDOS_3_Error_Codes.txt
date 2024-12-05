@@ -1,0 +1,20 @@
+TrainDrive OS 3 Error Code
+
+1_x = Normal Error
+2_x = Fatal Error (Can not continue)
+
+Error Code: 1_1
+初期設定時にTDOS_Module_ScriptでSettingsSaveを有効化されていますが、TDOS_DataStore_Valuesが見つかりませんでした。
+
+Error Code: 2_1
+SmoothDrive Narikawaが見つかりません。
+
+Error Code: 2_2
+PlayerSeatValue1が見つかりません。
+
+Error Code: 2_3
+DashboardMenu1、LaunchpadMenu1、SettingsMenu1のいずれかが見つかりません。
+
+Error Code: 2_4
+
+このSmoothDrive Narikawaは対応していません。
