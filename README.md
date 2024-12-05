@@ -24,3 +24,5 @@ TrainDrive OS 3は、Narikawa Technologyが開発したRoblox向け列車運転G
 主な改善点
 
 ・デバイス互換性
+
+このGithubでは、TrainDrive OS 3の開発に使用した・関係する文章ファイルを公開しています。
